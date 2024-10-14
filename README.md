@@ -5,5 +5,5 @@
 How to extract Number of Rooms Prediciton model:
 1) open **datathon-CNN-training/main.py**
 2) Usage: "python main.py data_directory [model.h5]"
-3) open **datathon-CNN-training/checkcam.py**
-4) Usage: "python checkcam.py"
+3) open **datathon-CNN-training/check.py** or **datathon-CNN-training/checkcam.py**
+4) Usage: "python check.py" or "python checkcam.py"
